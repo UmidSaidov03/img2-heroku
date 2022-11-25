@@ -10,7 +10,7 @@ env.read_env()
 
 
 # .env fayl ichidan quyidagilarni o'qiymiz
-BOT_TOKEN = env.str("BOT_TOKEN")  # Bot toekn
+BOT_TOKEN ="5712717261:AAFVji0TUkHDKpVtQJLl2ocjXkgD-xtwqN8"  # Bot toekn
 ADMINS = env.list("ADMINS")  # adminlar ro'yxati
 IP = env.str("ip")  # Xosting ip manzili
 # import os
